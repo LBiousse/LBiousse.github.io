@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+* {
+    margin: 0%;
+}
+
+
+body{
+    min-height: 120vh;
+    background-color: crimson;
+    color: violet;
+    font-family: 'Architects Daughter', cursive;
+    padding: 32px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;     
+}
